@@ -1,0 +1,7 @@
+Spicy Extras
+- hover image without moving other flexbox
+- create link to online adoption form (separate html file?)
+- footer links to additional pages
+- JS record signups
+- Add signups into Mailchimp?
+
